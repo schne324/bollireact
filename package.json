@@ -1,11 +1,14 @@
 {
   "name": "bollireact",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my personal react project boilerplate thingy",
-  "main": "index.js",
   "author": "Harris Schneiderman",
+  "repository": "schne324/bollireact",
   "license": "MIT",
   "private": false,
+  "bin": {
+    "bollireact": "./index.js"
+  },
   "dependencies": {
     "chalk": "^2.4.1",
     "inquirer": "^6.2.0"
