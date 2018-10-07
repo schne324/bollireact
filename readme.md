@@ -20,7 +20,7 @@ A cli prompt which will asks for:
   - additional dependencies (optional)
   - additional dev dependencies (optional)
 
-*OTHER NOTE*: the code for this isn't pretty, I basically `child_process.exec` a bunch of shit so use with caution!
+*NOTE*: I basically `child_process.exec` a bunch of shit so use with caution!
 
 ## What it do
 
