@@ -1,7 +1,9 @@
 # Bollireact
-> bollire react
+> bollire react - a yarn, parcel, react, prettier boilerplate
 
 ...__bollire__ means boil in italian or something
+
+*NOTE*: this is for my own personal use...I do not recommend using this unless you fully understand what it does
 
 ## Usage
 
@@ -18,7 +20,6 @@ A cli prompt which will asks for:
   - additional dependencies (optional)
   - additional dev dependencies (optional)
 
-*NOTE*: this is for my own personal use...I do not recommend using this unless you fully understand what it does
 *OTHER NOTE*: the code for this isn't pretty, I basically `child_process.exec` a bunch of shit so use with caution!
 
 ## What it do
